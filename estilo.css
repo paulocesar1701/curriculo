@@ -1,0 +1,33 @@
+body{
+    background-color: #F8F8FF;
+text-align: center;
+margin: auto;
+
+}
+
+.titulo{
+    background-color: #D2B48C;
+    
+}
+
+.contato{
+    text-decoration: underline;
+}
+
+.redes{
+    background-color: aquamarine;
+
+}
+
+.objetivos{
+    text-decoration: underline;
+}
+
+.formacao{
+    text-decoration: underline;
+}
+
+.cursos{
+    text-decoration: underline;
+}
+
